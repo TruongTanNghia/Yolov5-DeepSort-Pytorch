@@ -10,7 +10,7 @@
 
 ![INTRO](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/5fec5021-f2b7-47ec-a6ce-bc657022038a)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>![image](https://github.com/TruongTanNghia/Yolov5-DeepSort-Pytorch/assets/92427686/b7202de6-17c3-43f8-8b91-ae3929a1072a)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
 <p>
